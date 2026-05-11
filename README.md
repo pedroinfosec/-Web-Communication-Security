@@ -108,4 +108,4 @@ Aprofundar conhecimentos em:
 # Autor
 @pedroinfosec
 
-Desenvolvido para fins de estudo e evolução na área de tecnologia e cibersegurançap
+Desenvolvido para fins de estudo e evolução na área de tecnologia e cibersegurança
